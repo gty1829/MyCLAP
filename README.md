@@ -1,0 +1,1 @@
+whisper_encoder是我扒出来的，whisper是原本的代码。
